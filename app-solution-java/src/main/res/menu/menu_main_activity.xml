@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Menu for MainActivity -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_enable_bluetooth"
+        android:title="Enable Bluetooth"
+        app:showAsAction="never" />
+    <!-- Removed 'Search Devices' menu item -->
+</menu>
